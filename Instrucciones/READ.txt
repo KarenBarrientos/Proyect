@@ -1,0 +1,8 @@
+npm install react-bootstrap bootstrap
+npm install --save react-router-dom
+
+npm i reactstrap
+npm install --save styled-components
+npm i firebase
+npm i react-firebaseui
+npm install -g firebase-tools
